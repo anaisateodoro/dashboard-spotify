@@ -30,17 +30,22 @@ O painel permite visualizar indicadores-chave de performance (KPIs), tendências
 - Evolução de **Popularidade e Músicas Distintas por Mês e Ano**.  
 - Destaque dos **Top Artistas e Top Músicas** por popularidade.
 
+<img width="1911" height="1028" alt="Image" src="https://github.com/user-attachments/assets/cf8060e8-4e25-400d-928f-658e2d7aad10" />
+
 ### 🔹 **2. Página de Artistas (Artist Page)**
 - Ranking dos **Artistas mais populares**.  
 - Comparativo de **Faixas por Álbum** e **Músicas por Artista**.  
 - Drill-down para detalhes de cada artista (músicas, data de lançamento, popularidade, posição, duração).  
 - Identificação de artistas com **sucessos recorrentes e posições #1**.
 
+<img width="1910" height="1023" alt="Image" src="https://github.com/user-attachments/assets/0191cc64-84cd-4bba-9907-6a66a7809562" />
+
 ### 🔹 **3. Página de Músicas (Songs Page)**
 - Ranking das **Principais Músicas por Popularidade**.  
 - Distribuição de **Faixas por Álbum/Single**.  
 - Tabela detalhada com: nome da música, artistas, data de lançamento, popularidade média, posição e duração.  
 
+<img width="1910" height="1031" alt="Image" src="https://github.com/user-attachments/assets/1c98110d-2eba-4ca0-a0bc-4e89839477b7" />
 ---
 
 ## 🧠 Insights Obtidos
@@ -49,6 +54,8 @@ O painel permite visualizar indicadores-chave de performance (KPIs), tendências
 - Tendências de **músicas explícitas ganhando mais popularidade** em certos períodos.  
 - Distribuição de **lançamentos por tipo de álbum**.  
 - Evolução da **popularidade média ao longo do tempo**.
+
+<img width="1908" height="1070" alt="Image" src="https://github.com/user-attachments/assets/22077c64-9c11-49ff-9fb5-139f0ec42268" />
 
 ---
 
